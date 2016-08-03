@@ -32,7 +32,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Well we will be working on seperate files on each of our computers and then
+    use dropbox to paste each of our files. It will be very messy definitely. Git
+    is very helpful and easy to use.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
